@@ -5,7 +5,7 @@ export default function Page() {
       <br />
       ID: 6852D10099
       <br />
-      Name: Chanintorn Chalermsuk
+      Name: Chanatip Chueycherm
     </div>
   );
 }
